@@ -8,7 +8,7 @@ white='\e[1;37m'
 red='\e[1;31m'
 yellow='\e[1;33m'
 BlueF='\e[1;34m'
-LIMITATOR=5
+LIMITATOR=20
 clear
 BANNERS () {
 printf "${white}
